@@ -1,0 +1,60 @@
+Week 1 
+We decided as a group to do project 5, the wait management system. 
+We allocated roles for the team members. I will be working on the front end alongside Jimmy.
+We had brief discussions about the languages and frameworks we are going to use. 
+I suggested we use a React app for the front end, which the other group members are on board with. 
+We broke up the features of the project into 8 main functionalities.
+We brainstormed ideas for novelty functions for the project.
+
+Week 2
+We finalized the 8 main functionality and decided on 2 novel functionalities.
+We divided up the functionalities between group members
+I wrote user stories for the functionalities that were assigned to me. 
+We divided up the work needed for the proposal. As a part of the front end team I am assigned to storyboards with Jimmy
+Jimmy and I decided to split the story boards up into customer and staff ones. 
+I started creating storyboards for the customer side of the application.
+
+Week 3
+I finished the storyboards assigned to me for the proposal
+I wrote the description of the technologies that we are planning to use to the front end of the application for the proposal 
+I wrote the external actors section of the proposal
+I did some research and testing how I am going to set up the authentication for the front end of the application
+
+
+Week 4
+I started work on the frontend of the project
+I created the log in and sign up page, the basic menu layout and linked them together
+I worked on making the page responsive to be suitable for mobile use, however it still needs work.
+I did some work on styling for the pages however it is not compete
+
+Week 5 
+I continued to work on the front end made a couple of style changes
+I updated the menu a and added functionality so when you click on an item you are able ot view it in more detail.
+
+Week 6
+I did some work on trying to create a userstore to keep track of customer order, weather they are logged in or not and other things.
+I am still trying to get a working version of it and get it to update live once the customer has logged in. 
+
+Week 7
+This week I worked with Jimmy to link the menu database to the front end
+I also made up the basic UI so managers can add and edit items on the menu and connected it to the backend functionality
+I worked with Jimmy to try get the shopping cart working, we are having a little trouble and need to work with the backend team to come up with a better solution. 
+
+Week 8
+I worked on improving the style of the application, mainly the login and signup pages. 
+I added functionality so a manager can mark an item as currently out of stock aswell as delete an item that is no longered serverd. 
+I added functionality so a manager can move an item to another category 
+I added functionaltiy so a manager can add, remove categories as well as update a categories name. 
+I added a search bar to the menu so users are able to find menu items by there name. 
+
+Week 9 
+I worked on the functionalities for the wait staff
+I made a page for the wait staff to see the orders that are ready to be served
+I made a page to display the bookings of the resturant 
+I made a page to dsiplay the needed assistnace by customers in the resturant
+I made a page to display all customer orders so you are able to remove items from the order. 
+
+Week 10
+I wrote up the functionality of booking and assistance for the report
+I fixed up some authentication issues for the front end and well as some small bugs we had found. 
+I set up our project in the Linux Virtual enviroemnt and doccumented the steps for the user documentation needed for the report. 

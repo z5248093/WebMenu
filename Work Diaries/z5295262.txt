@@ -1,0 +1,39 @@
+Week 1:
+  We form our group and discuss each projectÕs cons and pros, then we decided to work on project 5.
+  We discussed in detail the various aspects of project 5 and take a brainstorm about new features.
+  On Saturday, we meet in teams to talked about the tech stack and we decided to use React as our front-end framework and I would work on front-end with Neve.
+Week 2:
+  We took a meeting to talk about schedule of next two weeks, and I worked on staff page design including orders, customer requests, menu editing.
+  I have search for certain UI design apps to help us complete demo design.
+
+Week 3:
+  I have completed UI design for staff and manager part.
+  Neve and I talked about the UI style, and mofified mine to fit Neve's style.
+  I learn certain courses about React and tried to work on front end coding tasks.
+
+Wee 4:
+  I have leant react framework and work on completing authentication part.
+  And I tried to connect front end part and back end part, and work with back end team to solve the return issue to make front end could catch right return value.
+  I modified log in and sign up html files.
+
+Week 5:
+  I worked out how to use axios and URLSearchParams, connected backend and frontend sucessfully, 
+  implemented authentication part with get and post method under react framework. 
+  Team up with backend team to set the json return format and status codes, 
+  debugged CORS problems in backend and frontend, 
+  debugged and solved csrf problems. 
+
+Week 6:
+ Worked with backend team to check and validfy return value
+ Worked with backend team and debug Django problems
+ 
+Week 7:
+ Design kitchen staff UI and complete fix API bugs
+ Complete kitchen staff pages design and logic.
+Week 8:
+ Complete AUTH part fix tasks, modify navigation bar into "Login" status and "log out" status
+  
+Week 9:
+  fix all bugs, prepare for the demonstration
+Week 10:
+  Fix all bugs we found during the demo and add non-negative number insert function into front end. And work on completing final report. 

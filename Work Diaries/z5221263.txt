@@ -1,0 +1,58 @@
+Week 1:
+- Selected as Scrum master.
+- Finished the basic setup of Jira.
+- The first group meeting was organized. We discussed the technology stack of Project
+ at the meeting. We also discussed the novel functionalities required by Project.
+ 
+Week 2:
+- All the user stories were done in collaboration.
+- I transferred the written user stories to Jira.
+- Our group is divided into a "front-end group" and a "back-end group". Each group is 
+responsible for part of the Proposal.
+- I have prepared some descriptions of our group's back-end technology stack.
+
+Week 3:
+- We completed the Proposal during the week.
+- I assigned Sprints Structure to the group.
+- After some discussion, we decided on user stories in Sprint 1.
+- We have started work on the programming part. At the moment we are mainly initialising 
+and familiarising ourselves with the tools we will be using. I have set up a working environment
+
+ 
+ Week 4:
+ - We learned how to start Django, how to create projects and apps.
+ - We configured the MySQL database and connected it to the graphical management tool DBeaver.
+ - We implemented user login, signup and logout with the help of Django's Auth module.
+ - We have created simple html pages to test our functionality.
+ - We discussed about the model design of the items.
+
+Week 5:
+- I completed the functions in Sprint 1 regarding listing items, categories, and querying items.
+- Interfacing with the front-end.
+- Held retrospective A meeting.
+ 
+Week 6:
+- Implemented the function of adding, deleting, updating and querying the items.
+- Completed the report for retrospective A.
+
+Week 7:
+- Improved functions on authentication.
+- Set up the Sprint 3 task.
+ - Added staff side functions in 'Items'.
+
+Week 8:
+- I completed all the functions on 'Assistance'.
+- Completed the report for retrospective B.
+- Successfully divides users into four different roles.
+
+Week 9:
+- Implemented permissions for each user role to access pages, avoiding customer access to staff and manager pages.
+- Finished the functions of account management part.
+- Rehearse Final Demo.
+
+Week 10:
+- Add a plausible value check to some input parameters.
+- Delete the parts of the source code that are useless.
+- Finish final report.
+-
+

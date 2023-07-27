@@ -1,0 +1,39 @@
+WEEK2:
+  We finalized 6 basic and 2 noval functionalities, I wrote user stories for customer parts. 
+  We discussed about the correctness of user stories and then uploaded them onto jira.
+  We assigned tasks for other parts in proposal, I should focus on background and system architecture.
+  I'm searching for some existing softwares and trying to identify their drawbacks.
+
+WEEK3:
+  I searched for several existing softwares and their drawbacks, we finished the proposal together on google doc.
+  I learned the basics of Django and tried to build a login interface.
+  Started to think about back-end implementation.
+
+WEEK4:
+  Use Django modules to implement user login.
+  Connect login and signup pages.
+  Create dababases for user information. Add new user when signup and check existance when login.
+  Try to build menu pages.
+  
+Week5:
+  We discussed about the other parts in sprint 1, determined the database structure for menu and shopping cart.
+  The structure for shopping cart is really complicated, hope we can finilize the database field in week 6.
+  
+Week6:
+  We had a retrospective meeting, discussed about what went well, not well and things to try in next week.
+  Work on shopping cart back-end
+  
+Week7:
+  use django cart module to implement shopping cart function, return information in dict as json
+  connect to front end.
+  
+Week8
+  implement booking part
+  
+Week9
+  fix all bugs, prepare for the demonstration
+  
+Week10
+  write report, debug everything, try to run the project under linux
+  
+

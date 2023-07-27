@@ -1,0 +1,62 @@
+Week 1:
+  We had a meeting and decided the scheduled time to have meeting every week.
+  Created communication group via Messager and Teams to communicate as group more efficient and convenient.
+  We shared ideas with each other and decided on the projects we chose to complete.
+  Decided what language will be used in our project.
+  Start to work on project proposal. Thinking how many functionalities we will have in this project and assign work about user stories.
+  Finished user stories about manager, authentication, and think about new features.
+
+Week 2:
+  We had a meeting at scheduled time.
+  Talked about our user stories to make them better and think about new features, also decide our novel functionalities.
+  Work on project proposal.
+  Assign work to each group member, I will finish background, user stories and sprints parts, find existing systems then identify their drawbacks
+  Also doing system architecture part.
+
+Week 3:
+ We had a meeting at our scheduled time as usual.
+ Done work assign to me and also modify about the part a(background, problem and solution) and some of the part b(exsiting system and drawbacks) to make these better.
+ We make sure about exact functionalities we will work on.
+ Start work on back end staff.
+ Set up enviroment, install what our back end group need to use like Django, build the foundation.
+
+
+Week 4:
+ We had a meeting at our scheduled time as usual.
+ Create different branch named as our each member's name for backend work.
+ Work on authentication by using django and database staff.
+
+Week 5:
+ We had a meeting at our scheduled time as usual - to talk about our implement of sprint 1 also consider what we will done in sprint 2.
+ Done what we need do in sprint one in backend part - 
+  auth part done also make progress for customers' menu and order part
+ Do more about orders part, there are some questions that we desicuss about which is how the orders table look like, we need add what things into it.
+ Try to understand what type our project need to better connect backend and frontend
+
+Week 6:
+ We had a meeting at our scheduled time as usual - discuss about work and check the progress, also we talk about the retrospective report A.
+ Find still have problem with the connection between frontend and backend about the menu and order part.
+ Try my best to solve these issues - should return JSON reponse for better connection.
+ Doing the sprint 2 part of backend - improve our User authentication part
+
+Week 7:
+ We had a meeting at our scheduled time as usual - update all our work.
+ For the backend, we done the shop cart and order part.
+ When we connect our work with frontend, there is problem - we spend much time to solve it, have meetings like 3 or 4 days.
+
+Week 8:
+ We had many meetings this week, to discuss about our work progression for both backend and frontend.
+ Done the booking part and add more functionalities for shop cart and order part.
+ Fix some bugs with my team members.
+ Had meeting to talk about our retrospective B report.
+
+Week 9:
+ We had many meetings this week, to discuss about our work progression for both backend and frontend.
+ Done all the work for backend.
+ Fix some bugs with my team members.
+
+Week 10:
+ We had many meetins this week, cause we need submit our work before due time so we keep checking and improving our code.
+ Test our project in VM environment.
+ Work on final report.
+ Improve our work for better implement of our project
